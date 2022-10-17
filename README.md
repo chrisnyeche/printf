@@ -11,7 +11,8 @@
 - va_arg (man 3 va_arg)
 
 
-Authors: [Christopher Nmasichi Favour Nyeche](https://github.com/NwabuezeFranklin) and  [Tamunosaki Erekosima](https://github.com/Asiwajuife)
+[Secrets of printf](https://alx-intranet.hbtn.io/rltoken/7Vw7aUWgwC7JYUrqI4bh4Q )
+Group Projects concept page (Don’t forget to read this)
+Flowcharts concept page
 
-
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjvSbZ7AEEr4Eh5jpKLM-zU-aicSUNaeXR-Q&usqp=CAU)
+Team Members: [Christopher Nmasichi Favour Nyeche](https://github.com/NwabuezeFranklin) and  [Tamunosaki Erekosima](https://github.com/Asiwajuife)
