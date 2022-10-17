@@ -1,4 +1,4 @@
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb18zkbUefxh6MAQSOfV_9X9i2HMUVvUloLQ&usqp=CAU)
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/228/printf.png )
 # PrintF function group project
 
 ### Functions and macros that are authorized 
@@ -11,7 +11,7 @@
 - va_arg (man 3 va_arg)
 
 
-Authors: [Christopher Nyeche](https://github.com/NwabuezeFranklin) and  [Tammy](https://github.com/Asiwajuife)
+Authors: [Christopher Nmasichi Favour Nyeche](https://github.com/NwabuezeFranklin) and  [Tamunosaki Erekosima](https://github.com/Asiwajuife)
 
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjvSbZ7AEEr4Eh5jpKLM-zU-aicSUNaeXR-Q&usqp=CAU)
